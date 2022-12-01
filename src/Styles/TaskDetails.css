@@ -1,0 +1,17 @@
+.details__container {
+    margin: 15px 0;
+    padding: 15px 20px;
+    
+    display: flex;
+    flex-direction: column;
+    
+    color: #eeeeee;
+    background-color: #37474f;
+    border-radius: 5px;
+}
+
+.details__title {
+    margin-bottom: 10px;
+    
+    color: #1dddff;
+}

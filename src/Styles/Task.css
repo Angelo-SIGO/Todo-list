@@ -1,0 +1,19 @@
+.task__container {
+    margin: 8px 0;
+    padding: 15px 20px;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    background-color: #37474f;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.task__menu {
+    width: 30%;
+
+    display: flex;
+    justify-content: flex-end;
+}
